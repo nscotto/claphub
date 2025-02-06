@@ -1,4 +1,6 @@
 [requires]
+pffft/cci.20210511
+
 [options]
 
 [generators]
